@@ -31,3 +31,6 @@ El mismo respeto que otras disciplinas.6​7​
  [Link](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica))
  
  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+## Imagen de Margaret Hamilton
+![alt text](https://github.com/NeMB1/SuperHeroina/blob/main/margaretH.gif "Margaret Hamilton con su código")
